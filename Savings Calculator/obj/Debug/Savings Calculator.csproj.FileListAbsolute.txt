@@ -1,0 +1,9 @@
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\bin\Debug\Savings Calculator.exe.config
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\bin\Debug\Savings Calculator.exe
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\bin\Debug\Savings Calculator.pdb
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\obj\Debug\Savings Calculator.csprojAssemblyReference.cache
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\obj\Debug\Savings_Calculator.Form1.resources
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\obj\Debug\Savings_Calculator.Properties.Resources.resources
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\obj\Debug\Savings Calculator.csproj.GenerateResource.cache
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\obj\Debug\Savings Calculator.exe
+C:\Users\Justin\source\repos\Savings Calculator\Savings Calculator\obj\Debug\Savings Calculator.pdb
